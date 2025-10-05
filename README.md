@@ -2,7 +2,7 @@
 ### *Python → C++ Translator & Performance Analyzer*
 
 
-> Translate Python code into optimized C++, compile & run both versions, and compare performance — all inside a beautiful Gradio app.  
+> Translate Python code into optimized C++, compile & run both versions, and compare performance,AI explain tab — all inside a beautiful Gradio app.  
 > NeuroCompile bridges **AI reasoning**, **compiler engineering**, and **systems optimization** in one project.
 
 ---
@@ -59,6 +59,7 @@ API keys are not stored or logged.
 Compilation requires a working C++ compiler (g++ recommended).
 
 Internet required for API access.
+
 🧑‍💻 Author
 
 Usman
