@@ -314,7 +314,7 @@ with gr.Blocks(theme=gr.themes.Soft(primary_hue="blue", secondary_hue="sky"), ti
             clear_button = gr.Button("Clear Chat History")
 
     gr.Markdown("---")
-    gr.Markdown("Created by Jules, AI Software Engineer. [View on GitHub](https://github.com/example/link)")
+    gr.Markdown("for code check out,https://github.com/usmanibrahim17/NeuroCompile")
 
     # --- Event Handlers ---
     
